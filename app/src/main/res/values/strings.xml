@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string-array name="list_name">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>
+    </string-array>
+    <string-array name="list_value">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>
+    </string-array>
+</resources>
